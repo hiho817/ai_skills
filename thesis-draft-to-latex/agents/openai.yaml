@@ -1,0 +1,4 @@
+interface:
+  display_name: "Thesis Draft to LaTeX"
+  short_description: "Convert thesis Markdown to LaTeX faithfully"
+  default_prompt: "Use $thesis-draft-to-latex to convert one thesis draft chapter from Markdown into LaTeX while preserving source content exactly."
