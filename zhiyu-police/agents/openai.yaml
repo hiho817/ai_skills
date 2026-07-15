@@ -1,0 +1,4 @@
+interface:
+  display_name: "支語警察"
+  short_description: "掃描技術與學術文件的中國用語並安全轉為臺灣慣用寫法"
+  default_prompt: "Use $zhiyu-police to scan this Traditional Chinese document for Mainland Chinese usage and revise it safely."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "論文符號一致性檢查"
+  short_description: "檢查論文座標系標記、純量、向量、矩陣及符號一致性與重複"
+  default_prompt: "Use $check-thesis-symbols to audit the mathematical notation in my thesis draft and report inconsistencies."
