@@ -1,0 +1,4 @@
+interface:
+  display_name: "I'm Not AI"
+  short_description: "Revise academic Chinese without formulaic prose"
+  default_prompt: "Use $im-not-ai to diagnose and revise this thesis passage without changing its technical meaning."
