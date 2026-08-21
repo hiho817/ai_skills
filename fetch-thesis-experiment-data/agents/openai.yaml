@@ -1,4 +1,0 @@
-interface:
-  display_name: "取得論文實驗資料"
-  short_description: "從遠端正式來源取得具可追溯性的論文實驗數值、報告與圖表"
-  default_prompt: "Use $fetch-thesis-experiment-data to retrieve the required thesis experiment metrics and figures from the remote analysis workspace."
